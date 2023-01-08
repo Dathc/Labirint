@@ -17,12 +17,12 @@ body {
     position: absolute;
     width: 340px;
     height: 240px;
-    /*background: #39a;
-	
-	align-self: center;
-	justify-self: center;
-	place-self: center center;*/
-    top: 30vh;
+    background: #39a;
+
+    align-self: center;
+    justify-self: center;
+    place-self: center center;
+    */ top: 30vh;
     left: 50%;
     transform: translate(-50%, -50%);
 }
